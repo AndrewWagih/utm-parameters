@@ -1,5 +1,5 @@
 {
-    "name": "andrew/utm-parameters",
+    "name": "AndrewWagih/utm-parameters",
     "autoload": {
         "psr-4": {
             "AndrewWagih\\UtmParameters\\": "src/"
