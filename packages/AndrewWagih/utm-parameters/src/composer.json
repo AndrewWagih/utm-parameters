@@ -1,5 +1,5 @@
 {
-    "name": "AndrewWagih/utm-parameters",
+    "name": "andrew/utm-parameters",
     "autoload": {
         "psr-4": {
             "AndrewWagih\\UtmParameters\\": "src/"
@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.0.1"
+        "guzzlehttp/guzzle": "^7.2"
     }
 }
