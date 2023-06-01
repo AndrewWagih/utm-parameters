@@ -1,8 +1,8 @@
 {
-    "name": "AndrewWagih/utm-parameters",
+    "name": "Andrew/utm-parameters",
     "autoload": {
         "psr-4": {
-            "Andrew\\UtmParameters\\": "src/"
+            "AndrewWagih\\UtmParameters\\": "src/"
         }
     },
     "authors": [
